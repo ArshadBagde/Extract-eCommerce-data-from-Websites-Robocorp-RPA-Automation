@@ -1,0 +1,11 @@
+==============================================================================
+Tasks :: Template robot main suite.                                           
+==============================================================================
+DataScraping Demo                                                     | FAIL |
+No keyword with name '${amazonData}= DataScraping Results' found.
+------------------------------------------------------------------------------
+Tasks :: Template robot main suite.                                   | FAIL |
+1 task, 0 passed, 1 failed
+==============================================================================
+Output:  e:\Internshala\1-Xorion Technologies Pvt Ltd., Nagpur\Projects\Extract Data of Product Name, Price, Rating, URL from Amazon and save in csv using robocorp-RPA\output\output.xml
+Log:     e:\Internshala\1-Xorion Technologies Pvt Ltd., Nagpur\Projects\Extract Data of Product Name, Price, Rating, URL from Amazon and save in csv using robocorp-RPA\output\log.html

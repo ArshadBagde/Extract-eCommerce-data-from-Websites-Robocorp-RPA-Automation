@@ -1,0 +1,14 @@
+[ ERROR ] Error in file 'e:\Internshala\1-Xorion Technologies Pvt Ltd., Nagpur\Projects\Extract Data of Product Name, Price, Rating, URL from Amazon and save in csv using robocorp-RPA\tasks.robot' on line 5: Importing library 'DataScraper' failed: ModuleNotFoundError: No module named 'DataScraper'
+Traceback (most recent call last):
+  None
+PYTHONPATH:
+  e:\Internshala\1-Xorion Technologies Pvt Ltd., Nagpur\Projects\Extract Data of Product Name, Price, Rating, URL from Amazon and save in csv using robocorp-RPA
+  e:\Internshala\1-Xorion Technologies Pvt Ltd., Nagpur\Projects\Extract Data of Product Name, Price, Rating, URL from Amazon and save in csv using robocorp-RPA
+  C:\Users\abagd\AppData\Local\robocorp\holotree\b1f3c244e_59f207d3\python37.zip
+  C:\Users\abagd\AppData\Local\robocorp\holotree\b1f3c244e_59f207d3\DLLs
+  C:\Users\abagd\AppData\Local\robocorp\holotree\b1f3c244e_59f207d3\lib
+  C:\Users\abagd\AppData\Local\robocorp\holotree\b1f3c244e_59f207d3
+  C:\Users\abagd\AppData\Local\robocorp\holotree\b1f3c244e_59f207d3\lib\site-packages
+  C:\Users\abagd\AppData\Local\robocorp\holotree\b1f3c244e_59f207d3\lib\site-packages\win32
+  C:\Users\abagd\AppData\Local\robocorp\holotree\b1f3c244e_59f207d3\lib\site-packages\win32\lib
+  C:\Users\abagd\AppData\Local\robocorp\holotree\b1f3c244e_59f207d3\lib\site-packages\Pythonwin
